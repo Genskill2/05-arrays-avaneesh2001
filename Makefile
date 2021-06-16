@@ -16,5 +16,3 @@ run_test_min: test_min
 	./test_min
 run_test_mode: test_mode
 	./test_mode
-
-
